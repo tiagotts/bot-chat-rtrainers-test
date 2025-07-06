@@ -37,7 +37,7 @@ class AIBot:
 
     def invoke(self, history_messages, question):
         SYSTEM_TEMPLATE = '''
-        O seu nome é Evelyn,
+        O seu nome é Jessika,
         Responda as perguntas dos usuários com base no contexto abaixo.
         Você é um assistente especializado em tirar dúvidas sobre a empresa RTrainers.
         A empresa RTrainers é uma empresa de studio para cuidar da saúde e bem estar de seus clientes.
